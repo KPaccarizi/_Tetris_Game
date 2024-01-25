@@ -8,16 +8,12 @@
 This project is a basic implementation of the Tetris game using the Pygame library. Tetris is a classic puzzle game that involves arranging falling blocks to create complete rows.
 
 
-###Folders:
+### Project Structure:
 
 background: Contains background images for the game.
 fonts: Includes fonts used in the game.
-
-###Files:
-
 play_game.py: Main script for running the Tetris game.
 record_game_score: File to record and store game scores.
-
 
 ## Installation
 
