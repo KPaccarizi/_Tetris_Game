@@ -20,11 +20,12 @@ This project is a basic implementation of the Tetris game using the Pygame libra
 Make sure you have Python and Pygame installed. 
 
 ### Controls
-Move Left: LEFT arrow key. 
-Move Right: RIGHT arrow key. 
-Rotate: UP arrow key. 
-Accelerate Down: DOWN arrow key. 
-Quit: Q key. 
+- Move Left: `LEFT` arrow key.
+- Move Right: `RIGHT` arrow key.
+- Rotate: `UP` arrow key.
+- Accelerate Down: `DOWN` arrow key.
+- Quit: `Q` key.
+
 
 
 High Scores
