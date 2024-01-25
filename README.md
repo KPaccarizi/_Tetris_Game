@@ -22,12 +22,12 @@ record_game_score: File to record and store game scores.
 
 Make sure you have Python and Pygame installed. 
 
-Controls
-Move Left: LEFT arrow key
-Move Right: RIGHT arrow key
-Rotate: UP arrow key
-Accelerate Down: DOWN arrow key
-Quit: Q key
+### Controls
+Move Left: LEFT arrow key. 
+Move Right: RIGHT arrow key. 
+Rotate: UP arrow key. 
+Accelerate Down: DOWN arrow key. 
+Quit: Q key. 
 
 
 High Scores
