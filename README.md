@@ -32,5 +32,7 @@ High Scores
 View and beat the highest scores recorded in the game!
 
 
+![Tetrist game](tetris.png)
+
 This challenge corresponds to the Coding Challenges by John Crickett https://codingchallenges.fyi/challenges/challenge-tetris.
 
